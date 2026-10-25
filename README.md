@@ -28,7 +28,7 @@
 
 ### Glad to see you here!  
 
-I’m a passionate Cloud Architect (Data)
+I’m a passionate Cloud Architect (Data & AI)
 
 I specialize in building robust data engineering/data analytics that do all the heavy lifting of data and business can able to decisions quickly. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.  
   
